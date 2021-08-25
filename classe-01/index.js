@@ -6,4 +6,4 @@ app.use(express.json())
 
 app.use(roteador)
 
-app.listen(8000)
+app.listen(8000, () => console.log('() [] {}'))
