@@ -3,7 +3,7 @@ const  axios = require('axios')
 const instanciaAxios = axios.create({
     baseURL: 'https://companyenrichment.abstractapi.com/v1/',
     params:{
-        api_key:'34a8499969c4401daf6a685935323c1d',
+        api_key:'db9d095e2fa0465ebec06941faa9ece7'        
     }
 })
 
