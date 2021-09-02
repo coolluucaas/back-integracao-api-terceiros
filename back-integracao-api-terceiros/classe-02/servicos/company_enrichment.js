@@ -7,4 +7,8 @@ const instanciaAxios = axios.create({
     }
 })
 
+module.exports = {
+    instanciaAxios
+}
+
 
